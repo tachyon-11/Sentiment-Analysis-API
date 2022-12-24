@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+nltk
+fastapi
+scikit-learn
+uvicorn
+BeautifulSoup4
+textblob
